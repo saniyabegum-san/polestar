@@ -1,9 +1,8 @@
-import { db } from "./firebase-config.js";
-
-import {
-addDoc,
-collection
-} from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+// import { db } from "./firebase-config.js";
+// import {
+// addDoc,
+// collection
+// } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 function checkPassword(){
 
@@ -81,8 +80,8 @@ checkPassword();
 
 /* Submit all answers */
 
-const submitBtn =
-document.getElementById("submitAnswers");
+/*const submitBtn =
+document.getElementById("submitAnswers");*/
 
 if(submitBtn){
 
