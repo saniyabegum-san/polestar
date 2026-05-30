@@ -47,7 +47,7 @@ behavior:"smooth"
 else{
 
 errorText.innerHTML =
-"❌ hawww humesha i love to to there <br>Hint: I always want to be there it's peaceful";
+"❌ hawww humesha i love to to there <br>Hint: I always want to be there it is peaceful";
 
 }
 
