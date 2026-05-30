@@ -10,7 +10,7 @@ function checkPassword(){
 const password =
 document.getElementById("passwordInput").value.trim();
 
-const correctPassword = "25/07/2024";
+const correctPassword = "godi";
 
 const errorText =
 document.getElementById("errorText");
@@ -47,7 +47,7 @@ behavior:"smooth"
 else{
 
 errorText.innerHTML =
-"❌ Wrong password baby<br>Hint: I said 'sure'";
+"❌ hawww humesha i love to to there <br>Hint: I always want to be there it's peaceful";
 
 }
 
